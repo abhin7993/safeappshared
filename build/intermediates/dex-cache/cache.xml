@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_63a0ddcdd0ede0714c85ee6b15d8d5cea0e6f134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7540ec116e7b9efc908d95afbc5f8c6a1c20f9df">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4af063a12ea118e959ecc2434510ae96f7a850c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_e694eb5329c313eec404da9ba29bc7f2b18b79c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_a9d6ceb51a8bd495e86aa0318c8b89a38296aea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_3a4c2494e8a3843862abf4fabc44b4657ba19f0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_76ff91010487d9145762881de7288e3f037e6011\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_1bad5b1755e89f07891e27b97e47fef4d5dbe80f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_227644031ad17fc2741ac4adf22112bd61f06212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_5818c52f50a54c4a5795dee313030f0462b6c114\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_076e2cb5a85c2442599994eaa0edad93c2becc0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_e29614a844cc79900b0f1aa6193af3494ec502b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_12156799a0b8cdc597a93a7624642d04d335bebc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_b95af94ecffe981dbf9fdb7726f056430251a0b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_bb68851d671c703271a0150e11981995336154d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_bfcbf1cfb370ccfa3422af2c7a2e55fb1f6ece30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_0acbfc14e51437133a1f3c2174e6e41856708c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_233b1d14b053003d6edca267298a221a9f7a1b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_41b85a514c35b16bed33bf1ef751909e090445ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_d952de44fc7b23d9c7bd07c0e4c05b3aec1d2738\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_150a96d5ed26b78da853fda10766a57ceae1aa78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.2.0_13fae58245638070ef0f964abf44e698a3223f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_b67aac5a8b3984f965496e9c8d79e863e27b9e11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_a20f79e42e2d4f8780362d7e6ad71f7d9d3b6e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_a7d73b29dd829e0cb0657c955342b312ab80f08f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_0dcd459f6b9964fb6d8639bf02d12804586b738d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_2c0f0a0c3ed6ab793b78475dadc68ebda80fd43c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_e7106f31efd574ceef22ee61175807c3f77f2880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_0a5f058339daebff90cd43af472f3324eb9c4a4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65c9a32764c24d401792e57745854cfbdaac7882">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_27d0bee06651d063c325f82a4f5008c74abc99cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\ANDROID_APP_PRACTICE\AndroidBashFacebookFirebase\Safeapp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_da0dda9ee2530b25c12024d636bcfa60eff79fda\classes.dex" />
+    </item>
+
+</items>
